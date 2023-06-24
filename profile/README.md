@@ -1,7 +1,7 @@
 ## Hifdh
 
 A tool to help in memorization of the Qur'an.
-Design and development of this app is currently taking place in private repositories, but perhaps we will open source one day.
+Design and development of this app are currently taking place in private repositories, but perhaps we will open source one day.
 We are very excited to eventually share this app with the world, inshaAllah
 
 <!--
