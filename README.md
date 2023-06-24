@@ -1,3 +1,1 @@
-# Hifdh
-
-A tool for learning the Qur'an
+# Profile ReadMe
